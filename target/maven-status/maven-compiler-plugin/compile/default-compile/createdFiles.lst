@@ -1,0 +1,3 @@
+resources\Browser.class
+pages\ProductPage.class
+pages\LoginPage.class
