@@ -9,6 +9,7 @@ public class LoginPage {
     WebDriver driver;
     public LoginPage(WebDriver driver)
     {
+
         this.driver=driver;
     }
     public void userNamePwd(String uname,String pwd) {
